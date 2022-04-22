@@ -1,6 +1,6 @@
 ### Hi there, I'm Eric 👋
 
-You can find me my portfolio ![here.](https://www.ericqyhan.com/)
+You can find me my portfolio [here.](https://www.ericqyhan.com/)
 
 <!--
 **EricqyHan/EricqyHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
