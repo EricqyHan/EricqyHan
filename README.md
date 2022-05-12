@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Han</h1>
 <h3 align="center">A passionate full-stack developer from New Jersey.</h3>
 
-- 🔭 I’m currently working on **building apps with HTML, CSS, JavaScript.**
+- 🔭 I’m currently working on **building apps with HTML, CSS, and JavaScript.**
 
 - 🌱 I’m currently learning **React**
 
