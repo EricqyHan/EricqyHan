@@ -24,4 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericqyhan&show_icons=true&locale=en" alt="ericqyhan" /></p>
 
+<img src="https://www.codewars.com/users/EricqyHan/badges/large" alt="Code Wars Badge">
 
