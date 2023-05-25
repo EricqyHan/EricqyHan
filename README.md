@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ericqyhan.com/](https://www.ericqyhan.com/)
 
-- 📫 How to reach me **ericqyhan@gmail.com**
+- 📫 How to reach me **Eric@ericqyhan.com**
 
 - ⚡ Fun fact **I enjoy MMA and olympic weightlifting.**
 
