@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **building apps with HTML, CSS, JavaScript.**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://www.ericqyhan.com/](https://www.ericqyhan.com/)
 
 - 📫 How to reach me **Eric@ericqyhan.com**
